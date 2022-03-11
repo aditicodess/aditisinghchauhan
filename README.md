@@ -21,9 +21,9 @@
   
 
 <h2 align="center"> Programming Skills</h2>
-<p align="center">
-  <code>![C++language](https://user-images.githubusercontent.com/76213429/157841199-87cd6936-241c-4470-8345-b767a2f4851e.png)
- </code>
+
+  ![C++language](https://user-images.githubusercontent.com/76213429/157841199-87cd6936-241c-4470-8345-b767a2f4851e.png)
+
   <code><mg width="10%" src="https://user-images.githubusercontent.com/76213429/157818906-5ddd5cd4-044f-4af6-9851-eb7ac9d69baf.png" style="max-width: 100%;">
  </code>
   <code><mg width="10%" src="https://user-images.githubusercontent.com/76213429/157819474-c676ee08-942f-4cc9-be9d-c759941c86f2.png" style="max-width: 100%;">
