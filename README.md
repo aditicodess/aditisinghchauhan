@@ -8,9 +8,15 @@
     <br>
     "A passionate "
     <b>Web Developer</b>
-    ", who likes to work on different projects & get to know about more and more things related to web world and wanted to make her own world."
-
-    </p>
+    ", who likes to "
+    <b>work on different projects</b>
+    "& get to know about more and more things related to "
+    <b>web world</b>
+    "and wanted to make her "
+    <b>own world</b>
+    "."
+  </em>
+ </p>
 
   
 
