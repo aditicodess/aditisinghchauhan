@@ -22,7 +22,7 @@
 
 <h2 align="center"> Programming Skills</h2>
 
-![C++language](https://user-images.githubusercontent.com/76213429/157841199-87cd6936-241c-4470-8345-b767a2f4851e.png)
+![C++language](https://user-images.githubusercontent.com/76213429/157841199-87cd6936-241c-4470-8345-b767a2f4851e.png 100x20)
 
 ![Clanguage](https://user-images.githubusercontent.com/76213429/157841374-514ac57e-b2f4-4494-98d0-2d1dbd4e336b.png)
 
