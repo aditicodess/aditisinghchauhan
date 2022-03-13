@@ -1,3 +1,4 @@
+ <h1 align="center">Hi 👋, I'm Aditi Singh</h1>
 <p align="center" dir="auto">
   <em>I am a 2nd Year undergraduate student from
     <a href="hbtu.ac.in" rel="nofollow"><b>Harcourt Butler Technical University</b></a>
@@ -18,7 +19,7 @@
   </em>
  </p>
 
- <h1 align="center">Hi 👋, I'm Aditi Singh</h1>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@aditisinghchauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@aditisinghchauhan" height="30" width="40" /></a>
