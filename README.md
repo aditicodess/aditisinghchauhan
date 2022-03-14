@@ -33,7 +33,9 @@
  
 
 <p align="center" dir="auto">
+ 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditisinghchauhan)](https://github.com/aditisinghchauhan/github-readme-stats)
+ 
 </p>
 
 
