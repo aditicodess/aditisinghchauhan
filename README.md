@@ -1,4 +1,6 @@
- <h1 align="center">Hi 👋, I'm Aditi Singh</h1>
+<h1 align="center">Hi 👋, I'm Aditi Singh</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditisinghchauhann&label=Profile%20views&color=0e75b6&style=flat" alt="aditisinghchauhann" /> </p>
+
 <p align="center" dir="auto">
   <em>I am a 2nd Year undergraduate student from
     <a href="hbtu.ac.in" rel="nofollow"><b>Harcourt Butler Technical University</b></a>
