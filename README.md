@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditi Singh</h1>
 
 <p align="center" dir="auto">
-  <em>A 2nd Year undergraduate student from
+  <em>A Pre-final Year undergraduate student from
     <a href="hbtu.ac.in" rel="nofollow"><b>Harcourt Butler Technical University</b></a>
     , India.
     <br>
