@@ -14,8 +14,6 @@
     <b>work on different projects</b>
     & get to know about more and more things related to 
     <b>web world</b>
-    and wanted to make her 
-    <b>own world</b>
     .
   </em>
  </p>
